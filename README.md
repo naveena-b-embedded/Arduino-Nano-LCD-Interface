@@ -29,7 +29,6 @@ The circuit diagram illustrates the hardware connections between the Arduino Nan
 
 ![Circuit Diagram](lcd_circuit_image.jpeg)
 
-> **Note:** Replace `images/circuit-diagram.png` with the actual path and filename of your uploaded circuit diagram image.
 
 ---
 
