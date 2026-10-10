@@ -100,5 +100,5 @@ This project provides a practical introduction to interfacing an LCD display wit
 
 ---
 
-## 🏷️ Technologies Used
+## Technologies Used
 `Arduino Nano` `LCD Display` `Arduino IDE` `Embedded Systems` `C/C++` `Hardware Interfacing`
